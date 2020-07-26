@@ -5,7 +5,7 @@
 
 .. csv-table::
    :header: "Символ", "Вид в игре"
-   :widths: 15, 300
+   :widths: 15, 15
 
    "", "|spawn|"
    "", "|deepwater|"
