@@ -210,7 +210,7 @@
    "", "|lead|"
    "", "|metaglass|"
    "", "|graphite|"
-   "", "|sand|"
+   "", "|sand-icon|"
    "", "|coal|"
    "", "|titanium|"
    "", "|thorium|"
